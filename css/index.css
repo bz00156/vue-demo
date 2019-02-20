@@ -1,0 +1,27 @@
+@charset "UTF-8";
+.hd_top_bar{
+	background:#f4f4f4;
+	height:30px;
+	line-height: 30px
+}
+.hd_top_bar .hd_topbar_left{
+	background: url(../images/receivingAddress.png) no-repeat left center;
+	text-indent: 18px;
+	float:left;
+}
+.hd_top_bar .hd_topbar_right ul{
+	float:right;
+}
+.hd_top_bar .hd_topbar_right ul li{
+	float:left;margin:0 3px;
+}
+.hd_header .hd_logo{
+	float:left;
+}
+.hd_header .hd_logo h1 a{
+	background: url(../images/yhdlogo.gif);
+	display: inline-block;
+	width:261px;
+	height:150px;
+	text-indent: -9999px;
+}
